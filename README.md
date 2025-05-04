@@ -1,7 +1,7 @@
 # Restaurant Management System
 
 <div align="center">
-  <img src="/api/placeholder/800/300" alt="Restaurant Management System Logo" />
+  <img src="/Images/Logo.png" alt="Restaurant Management System Logo" />
   <br>
   <em>Modern Restaurant Management Solution Built with Java & XAMPP</em>
   <br><br>
