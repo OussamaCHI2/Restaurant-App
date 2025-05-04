@@ -1,0 +1,13 @@
+====================================
+          Gourmet Delight
+====================================
+          Reçu de Paiement
+Commande ID: 5
+Date de la commande: 2025-03-14
+Montant total de la commande: 170.0 MAD
+Date de paiement: 2025-03-14
+Statut de la commande: Payée
+====================================
+          Au Revoir 
+
+
