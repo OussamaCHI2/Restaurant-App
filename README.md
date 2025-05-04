@@ -107,10 +107,6 @@ The Restaurant Management System is a comprehensive Java application integrated 
 
 ## 📥 Installation
 
-<div align="center">
-  <img src="/api/placeholder/800/200" alt="Installation Flow" />
-</div>
-
 1. Install XAMPP from [https://www.apachefriends.org/](https://www.apachefriends.org/)
 2. Start Apache and MySQL services in XAMPP Control Panel
 3. Clone the repository or download the latest release
