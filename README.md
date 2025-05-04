@@ -91,10 +91,6 @@ The Restaurant Management System is a comprehensive Java application integrated 
       <td>User Interface</td>
       <td>JavaFX</td>
     </tr>
-    <tr>
-      <td>Reporting Engine</td>
-      <td>JasperReports</td>
-    </tr>
   </table>
 </div>
 
